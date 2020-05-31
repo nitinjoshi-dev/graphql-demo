@@ -42,10 +42,11 @@
 			</exclusions>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-java -->
+		<!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-java -->
 		<dependency>
 		    <groupId>com.graphql-java</groupId>
 		    <artifactId>graphql-java</artifactId>
-		    <version>1.2</version>
+		    <version>11.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-spring-boot-starter -->
 		<dependency>
